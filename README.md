@@ -108,10 +108,6 @@ Example command:
 ```
 --->
 
-### Usage
-
-To run the project, execute the following command:
-
 <!--
 Example command:
 
