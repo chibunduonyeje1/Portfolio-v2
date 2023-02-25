@@ -140,7 +140,7 @@ You can deploy this project using:
 
 <!-- AUTHORS -->
 
-## 👤 Author <a name="Stephen"></a>
+## 👤 Author <a name="Stephen Onyeje"></a>
 
 > Mention all of the collaborators of this project.
 
