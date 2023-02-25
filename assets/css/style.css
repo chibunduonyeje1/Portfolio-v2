@@ -33,7 +33,7 @@
 
 /* hero section */
 .herosection {
-  height: 100vh;
+  height: 110vh;
   background-color: #1c1a19;
   display: flex;
   flex-direction: column;
@@ -41,7 +41,7 @@
   justify-content: center;
   background-image: url(../images/background-image\ design.png);
   background-repeat: no-repeat;
-  background-position: bottom right;
+  background-position: right 280px;
 }
 
 .herosection-text h1 {
@@ -73,6 +73,7 @@
   flex-direction: row;
   margin: 10px 24px;
   align-self: flex-start;
+  height: 20vh;
 }
 
 .herosection .social-icon li {
